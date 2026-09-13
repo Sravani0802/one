@@ -1138,8 +1138,8 @@
                 <ul>
                     <li><a href="#" class="active"><em class="fas fa-home"></em> Home</a></li>
                     <li><a href="#categories"><em class="fas fa-th-large"></em> Categories</a></li>
-                    <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
+                    <li><a href="#products"><em class="fas fa-fire"></em> Trending</a></li>
+                    <li><a href="#deals"><em class="fas fa-tag"></em> Deals</a></li>
                     <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
                 </ul>
             </nav>
