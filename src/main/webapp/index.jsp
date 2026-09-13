@@ -1140,7 +1140,7 @@
                     <li><a href="#categories"><em class="fas fa-th-large"></em> Categories</a></li>
                     <li><a href="#products"><em class="fas fa-fire"></em> Trending</a></li>
                     <li><a href="#deals"><em class="fas fa-tag"></em> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
+                    <li><a href="#testimonials"><em class="fas fa-star"></em> Reviews</a></li>
                 </ul>
             </nav>
 
